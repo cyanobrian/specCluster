@@ -1,1 +1,11 @@
+Requirements: 
+numpy
+PIL 
+sklearn
+matplotlib
+colorsys 
+scipy 
 
+
+To run: 
+Run in Jupyter notebook by pressing "run" button
